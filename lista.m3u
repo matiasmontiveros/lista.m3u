@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,TNT SPORTS
+https://cars565.pricesaskeloadsc.com:443/global/tntsports_argentina/index.m3u8?token=0a155d663ddd59edc820833283c507c743a7e9e0-c6-1727779527-1727743527
+#EXTINF:-1,ESPN PREMIUM
+https://5156.pricesaskeloadsc.com:443/global/espn_premium/index.m3u8?token=c4c49030a9bd2c12de7d38798c0b801165e2a7b5-df-1727783021-1727747021
+#EXTINF:-1,TYC SPORTS
+https://5156.pricesaskeloadsc.com:443/global/tyc_sports/index.m3u8?token=81a66188f14215817cc50e8b45d50c3b4bcd1d8a-f1-1727783213-1727747213
+#EXTINF:-1,DIRECTV SPORTS
+https://xca5.pricesaskeloadsc.com:443/global/dsports/index.m3u8?token=f0e21bb6e7c53811c1ac7d64dc37f6043907d898-6b-1727783297-1727747297
+#EXTINF:-1,DIRECTV SPORTS 2
+https://vasoc88.pricesaskeloadsc.com:443/global/dsports_2/index.m3u8?token=261cc43461bae064df076e1f7cfeb153471da4d8-94-1727784508-1727748508
+#EXTIFN:-1,DIRECTV SPORTS +
+https://xca5.pricesaskeloadsc.com:443/global/dsports_plus/index.m3u8?token=ec6296a01aafab8ea18eb53455d5bc59a88f17a2-4d-1727783718-1727747718
+#EXTINF:-1,FOX SPORTS
+https://cars565.pricesaskeloadsc.com:443/global/fox1ar/index.m3u8?token=8761c99ae2ee30cabb93d6aac047a7a7b1c360ec-96-1727783924-1727747924
+#EXTINF:-1,FOX SPORTS 2
+https://vadp.pricesaskeloadsc.com:443/global/fox2ar/index.m3u8?token=28106edf8e01584d240877362cfdb294db673ad8-ee-1727783962-1727747962
+#EXTINF:-1,FOX SPORTS 3
+https://5156.pricesaskeloadsc.com:443/global/fox3ar/index.m3u8?token=c8fee156e65e246b123d445fddc2badfb79649cd-6a-1727784034-1727748034
+#EXTINF:-1,ESPN
+https://812.pricesaskeloadsc.com:443/global/espn1/index.m3u8?token=c5fc4fc85f63743f2dd83210528c1196faa69b16-b8-1727784062-1727748062
+#EXTINF:-1,ESPN 2
+https://5156.pricesaskeloadsc.com:443/global/espn2/index.m3u8?token=a9b3fab0ac38485463825d063fbc3855c86e68bd-75-1727784119-1727748119
+#EXTINF:-1:ESPN 3
+https://vals88.pricesaskeloadsc.com:443/global/espn3/index.m3u8?token=5efab42669987745ae77c82b03d5229392fba013-b2-1727784185-1727748185
+#EXTINF:-1,ESPN 4
+https://812.pricesaskeloadsc.com:443/global/espn4/index.m3u8?token=9b28ac8e903c4ec22f99138014546ddf753467bb-6d-1727784236-1727748236
+#EXTINF:-1,ESPN 5
+https://5156.pricesaskeloadsc.com:443/global/espn5/index.m3u8?token=65a76b5a253309187eca3ddde892d1e6ade755ff-fa-1727784309-1727748309
+#EXTINF:-1,ESPN 6
+https://vals88.pricesaskeloadsc.com:443/global/espn6/index.m3u8?token=1e88ca2e14a529512406d11673839f7521e58ad9-52-1727784395-1727748395
+#EXTINF:-1,ESPN 7
+https://vasoc88.pricesaskeloadsc.com:443/global/espn7/index.m3u8?token=605112732db1b4475d6d5d89f5a1e9f2fb4cbfcb-a4-1727784420-1727748420
+#EXTINF:-1,WIN PLUS (COLOMBIA)
+https://812.pricesaskeloadsc.com:443/global/winplus/index.m3u8?token=9de5835c73c27d2203c19cdb8c8272038ba902c7-1f-1727784573-1727748573
+#EXTINF:-1,TNT SPORTS (CHILE)
+https://cale.pricesaskeloadsc.com:443/global/tnt_chile/index.m3u8?token=ba4fc943358b9e2ac1f59df680c789117ac6eae9-bd-1727784639-1727748639
