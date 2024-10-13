@@ -1,5 +1,37 @@
 #EXTM3U
-#EXTINF:-1,Canal 1
-https://update8915.pricesaskeloadsc.com:443/global/tntsports_argentina/index.m3u8?token=5c4901cc00e3cdf4a341d56bec73eb8173027fcb-d3-1728816464-1728780464
-#EXTINF:-1,Canal 2
-https://cars565.pricesaskeloadsc.com:443/global/espn_premium/index.m3u8?token=566b50b1204dc4454d4dff3020ddf06ccaeec9a4-48-1728816464-1728780464
+#EXTINF:-1,TNT SPORTS
+https://streamtp1.com/global1.php?stream=tntsports_argentina
+#EXTINF:-1,ESPN PREMIUM
+https://streamtp1.com/global1.php?stream=espn_premium
+#EXTINF:-1,TYC SPORTS
+https://streamtp1.com/global1.php?stream=tyc_sports
+#EXTINF:-1,DIRECTV SPORTS
+https://streamtp1.com/global1.php?stream=dsports
+#EXTINF:-1,DIRECTV SPORTS 2
+https://streamtp1.com/global1.php?stream=dsports_2
+#EXTIFN:-1,DIRECTV SPORTS +
+https://streamtp1.com/global1.php?stream=dsports_plus
+#EXTINF:-1,FOX SPORTS
+https://streamtp1.com/global1.php?stream=fox1ar
+#EXTINF:-1,FOX SPORTS 2
+https://streamtp1.com/global1.php?stream=fox2ar
+#EXTINF:-1,FOX SPORTS 3
+https://streamtp1.com/global1.php?stream=fox3ar
+#EXTINF:-1,ESPN
+https://streamtp1.com/global1.php?stream=espn1
+#EXTINF:-1,ESPN 2
+https://streamtp1.com/global1.php?stream=espn2
+#EXTINF:-1:ESPN 3
+https://streamtp1.com/global1.php?stream=espn3
+#EXTINF:-1,ESPN 4
+https://streamtp1.com/global1.php?stream=espn4
+#EXTINF:-1,ESPN 5
+https://streamtp1.com/global1.php?stream=espn5
+#EXTINF:-1,ESPN 6
+https://streamtp1.com/global1.php?stream=espn6
+#EXTINF:-1,ESPN 7
+https://streamtp1.com/global1.php?stream=espn7
+#EXTINF:-1,WIN PLUS (COLOMBIA)
+https://streamtp1.com/global1.php?stream=winplus
+#EXTINF:-1,TNT SPORTS (CHILE)
+https://streamtp1.com/global1.php?stream=tnt_chile
