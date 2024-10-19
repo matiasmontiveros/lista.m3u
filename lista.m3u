@@ -1,6 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Tyc sports
-https://cale.pricesaskeloadsc.com:443/global/tyc_sports/index.m3u8?token=608c1676e67022a4da88053052ca1901f8670783-1e-1729069570-1729033570
-
-#EXTINF:-1,Dsports
-https://812.pricesaskeloadsc.com:443/global/golperu/index.m3u8?token=d809469cf1f0f2bd33d8c65059dde75653da8515-99-1729069942-1729033942
+#EXTINF:-1,Tnt sports
+https://xca5.pricesaskeloadsc.com:443/global/tntsports_argentina/index.m3u8?token=5cd806e64e8123c9f31f713b5e28bab43c3b10dc-12-1729331272-1729295272
